@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Documents\ASP\ASP-2.3Normaliza datos_ÁlvaroOrgaz\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll
